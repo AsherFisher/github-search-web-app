@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel='stylesheet' href='/stylesheets/styleLogin.css' />
+</head>
+
+<body>
+<div class="login-page">
+  <img class ="aligncenter" src="/img/GitHub_logo.png" alt="Github logo">
+  <h1>Welcome to Github Search</h1>
+  <h2>register</h2>
+  <div class="form">
+    <form class="register-form" action="/register" method="POST">
+      <input type="name" placeholder="username" id="name" name="name" required/>
+      <input type="email" placeholder="email address" id="email" name="email" required/>
+      <input type="password" placeholder="password" id="password" name="password" required/>
+      <button type="submit">register</button>
+      <p class="message">Already registered? <a href="/login">Sign in</a></p>
+    </form>
+  </div>
+</div>
+</body>
+</html>

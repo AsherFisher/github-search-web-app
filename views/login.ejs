@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel='stylesheet' href='/stylesheets/styleLogin.css' />
+</head>
+
+<body>
+<div class="login-page">
+  <img class ="aligncenter" src="/img/GitHub_logo.png" alt="Github logo">
+  <h1>Welcome to Github Search</h1>
+  <h2>Login</h2>
+  <div class="form">
+    <% if (messages.error) { %>
+          <div class="error">
+            <p><%= messages.error %></p>
+          </div>
+        <% } %>
+    <form class="login-form" action="/login" method="POST">
+      <input type="name" placeholder="username" id="name" name="name" required/>
+      <input type="password" placeholder="password" id="password" name="password" required/>
+      <button type="submit">login</button>
+      <p class="message">Not registered? <a href="/register">Create an account</a></p>
+    </form>
+  </div>
+</div>
+</body>
+</html>
+
