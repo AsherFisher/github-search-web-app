@@ -1,7 +1,7 @@
 "# github-search-web-app" 
 
 <h2>developed by:</h2>
-	<p>Asher Fisher id 201514841<br>
+	<p>Asher Fisher<br>
 		<a href="mailto:osher636@gmail.com">osher636@gmail.com</a><br>
     </p>
     <h2>description:</h2>
@@ -18,9 +18,8 @@
     and if it does return an error, and if it does not return the updated list.<br>
     <b>delete:</b>When the user enters a path to delete,<br>
     the server checks if the name exists and if it does,<br>
-    returns the updated list and if it does not return an error<br>
-    
-	<p><b>adding in ex4:</b><br>
+    returns the updated list and if it does not return an error<br></p>
+    <p><b>adding in ex4:</b><br>
 	We added a special (login / password) using bootstrap style<br>
 	We have done really professional validation on both the client and server side<br>
 	to create unique passport we using passport lubrery<br>
@@ -33,4 +32,4 @@
     <p>enter in the command-line:<br>
 	<b>npm install</b></br>
 	<b>node server.js</b> or <b>npm run devStart</b></br>
-	in browser go to localhost:4000</br>
+	in browser go to localhost:4000</br></p>
