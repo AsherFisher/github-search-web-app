@@ -19,7 +19,7 @@
     <b>delete:</b>When the user enters a path to delete,<br>
     the server checks if the name exists and if it does,<br>
     returns the updated list and if it does not return an error<br></p>
-    <p><b>adding in ex4:</b><br>
+    <p><b>login</b><br>
 	We added a special (login / password) using bootstrap style<br>
 	We have done really professional validation on both the client and server side<br>
 	to create unique passport we using passport lubrery<br>
