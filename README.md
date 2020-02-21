@@ -1,5 +1,3 @@
-"# github-search-web-app" 
-
 <h2>developed by:</h2>
 	<p>Asher Fisher<br>
 		<a href="mailto:osher636@gmail.com">osher636@gmail.com</a><br>
@@ -28,8 +26,13 @@
 	after the user enterd by admin or by registered the index page will loaded<br>
 	and the save list will loaded and updated by the user using the buttons 'save' or 'delete'
     </p>
+    
    <h2>Running:</h2>
    <p>enter in the command-line:<br>
 	<b>npm install</b></br>
 	<b>node server.js</b> or <b>npm run devStart</b></br>
 	in browser go to localhost:4000</br></p>
+	
+   ![Capture](https://user-images.githubusercontent.com/52072953/75023347-56717c80-54a0-11ea-8a58-8a0620b4131a.JPG)
+   ![Capture2](https://user-images.githubusercontent.com/52072953/75024123-9a18b600-54a1-11ea-94e2-1d5adf4bd743.JPG)
+   ![Capture3](https://user-images.githubusercontent.com/52072953/75024162-a735a500-54a1-11ea-9a3e-314c35cba2e3.JPG)
