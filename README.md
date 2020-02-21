@@ -28,9 +28,8 @@
 	after the user enterd by admin or by registered the index page will loaded<br>
 	and the save list will loaded and updated by the user using the buttons 'save' or 'delete'
     </p>
-    ![login](https://raw.githubusercontent.com/AsherFisher/github-search-web-app/public/img/GitHub_logo.png)
-    <h2>Running:</h2>
-    <p>enter in the command-line:<br>
+   <h2>Running:</h2>
+   <p>enter in the command-line:<br>
 	<b>npm install</b></br>
 	<b>node server.js</b> or <b>npm run devStart</b></br>
 	in browser go to localhost:4000</br></p>
