@@ -30,7 +30,7 @@
    <h2>Running:</h2>
    <p>enter in the command-line:<br>
 	<b>npm install</b></br>
-	<b>node server.js</b> or <b>npm run devStart</b></br>
+	<b>node server.js</b> or <b>npm run devStart</b> to looking for changes and auto rerun the server</br>
 	in browser go to localhost:4000</br></p>
 	
    ![Capture](https://user-images.githubusercontent.com/52072953/75023347-56717c80-54a0-11ea-8a58-8a0620b4131a.JPG)
